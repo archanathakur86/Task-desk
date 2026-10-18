@@ -3,6 +3,9 @@
 A small employee and task manager built with React, Node.js, Express and MongoDB (Mongoose).
 Business rules are enforced on the backend. The frontend mirrors them only so users get fast feedback.
 
+# Frontend URL:https://profound-gaufre-8b3760.netlify.app
+# Backend URL:https://task-desk-3c03.onrender.com
+
 ## Project layout
 
 ```
